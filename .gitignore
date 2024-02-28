@@ -1,0 +1,6 @@
+debian/.debhelper
+debian/jupiter-dkms
+debian/files
+debian/*.log
+debian/*.debhelper
+debian/*.substvars

@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: jupiter-dkms
+Source: https://github.com/firlin123/jupiter-ubuntu-dkms
+
+Files: *
+Copyright: Copyright 2024 Firlin
+License: GPL-3
